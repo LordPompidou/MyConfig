@@ -90,5 +90,8 @@ sudo apt update && sudo apt install signal-desktop
 Go to the [releases](https://github.com/Splode/pomotroid/releases) and download the latest deb file.
 Install it.
 
+## BitWarden
+`sudo snap install bitwarden`
+
 ## Plex Media Player
 Community Plex Media Player to download as AppImage from [here](https://knapsu.eu/plex/)
