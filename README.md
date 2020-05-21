@@ -12,7 +12,7 @@ Each software and tools have its own part in this README as an explanation of wh
 ## Bashrc
 Save of bashrc in case I destroy mine by "accident"
 
-## MyZSH
+## Oh My ZSH
 Personal save of my zsh config file
 
 To install configurationn do:
